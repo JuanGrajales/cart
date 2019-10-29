@@ -33,6 +33,4 @@ window.onload = ()=> {
 
 function calcAll() {
   // Iteration 1.2
-  
-  console.log('calc')
 }
